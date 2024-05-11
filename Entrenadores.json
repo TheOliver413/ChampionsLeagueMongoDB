@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "string",
+    "nacionalidad": "string",
+    "experiencia": "int"
+  },
+  {
+    "nombre": "Zinedine Zidane",
+    "nacionalidad": "Francia",
+    "experiencia": 5
+  },
+  {
+    "nombre": "Ronald Koeman",
+    "nacionalidad": "Países Bajos",
+    "experiencia": 10
+  },
+  {
+    "nombre": "Pep Guardiola",
+    "nacionalidad": "España",
+    "experiencia": 15
+  },
+  {
+    "nombre": "Hans-Dieter Flick",
+    "nacionalidad": "Alemania",
+    "experiencia": 20
+  },
+  {
+    "nombre": "Mauricio Pochettino",
+    "nacionalidad": "Argentina",
+    "experiencia": 12
+  }
+]

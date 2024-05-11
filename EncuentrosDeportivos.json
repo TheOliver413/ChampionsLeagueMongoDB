@@ -1,0 +1,53 @@
+[
+  {
+    "fecha": "date",
+    "lugar": "string",
+    "equipo_local": {
+      "type": "ObjectId",
+      "ref": "Equipos"
+    },
+    "equipo_visitante": {
+      "type": "ObjectId",
+      "ref": "Equipos"
+    },
+    "arbitro": {
+      "type": "ObjectId",
+      "ref": "Árbitros"
+    }
+  },
+  {
+    "fecha": "2024-05-15",
+    "lugar": "Estadio Santiago Bernabéu",
+    "equipo_local": "ID_EQUIPO",
+    "equipo_visitante": "ID_EQUIPO",
+    "arbitro": "ID_ARBITRO"
+  },
+  {
+    "fecha": "2024-05-16",
+    "lugar": "Estadio Camp Nou",
+    "equipo_local": "ID_EQUIPO",
+    "equipo_visitante": "ID_EQUIPO",
+    "arbitro": "ID_ARBITRO"
+  },
+  {
+    "fecha": "2024-05-17",
+    "lugar": "Allianz Arena",
+    "equipo_local": "ID_EQUIPO",
+    "equipo_visitante": "ID_EQUIPO",
+    "arbitro": "ID_ARBITRO"
+  },
+  {
+    "fecha": "2024-05-18",
+    "lugar": "Parc des Princes",
+    "equipo_local": "ID_EQUIPO",
+    "equipo_visitante": "ID_EQUIPO",
+    "arbitro": "ID_ARBITRO"
+  },
+  {
+    "fecha": "2024-05-19",
+    "lugar": "Etihad Stadium",
+    "equipo_local": "ID_EQUIPO",
+    "equipo_visitante": "ID_EQUIPO",
+    "arbitro": "ID_ARBITRO"
+  }
+]

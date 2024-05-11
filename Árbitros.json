@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "string",
+    "nacionalidad": "string",
+    "experiencia": "int"
+  },
+  {
+    "nombre": "Felix Brych",
+    "nacionalidad": "Alemania",
+    "experiencia": 10
+  },
+  {
+    "nombre": "Howard Webb",
+    "nacionalidad": "Inglaterra",
+    "experiencia": 15
+  },
+  {
+    "nombre": "Björn Kuipers",
+    "nacionalidad": "Países Bajos",
+    "experiencia": 12
+  },
+  {
+    "nombre": "Cüneyt Çakır",
+    "nacionalidad": "Turquía",
+    "experiencia": 18
+  },
+  {
+    "nombre": "Anthony Taylor",
+    "nacionalidad": "Inglaterra",
+    "experiencia": 8
+  }
+]

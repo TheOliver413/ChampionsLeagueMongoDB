@@ -1,0 +1,38 @@
+[
+  {
+    "encuentro": {
+      "type": "ObjectId",
+      "ref": "Encuentros Deportivos"
+    },
+    "resultado": "string",
+    "ganador": {
+      "type": "ObjectId",
+      "ref": "Equipos"
+    }
+  },
+  {
+    "encuentro": "ID_ENCUENTRO",
+    "resultado": "3-2",
+    "ganador": "ID_EQUIPO"
+  },
+  {
+    "encuentro": "ID_ENCUENTRO",
+    "resultado": "1-1",
+    "ganador": "EMPATE"
+  },
+  {
+    "encuentro": "ID_ENCUENTRO",
+    "resultado": "2-1",
+    "ganador": "ID_EQUIPO"
+  },
+  {
+    "encuentro": "ID_ENCUENTRO",
+    "resultado": "4-0",
+    "ganador": "ID_EQUIPO"
+  },
+  {
+    "encuentro": "ID_ENCUENTRO",
+    "resultado": "2-2",
+    "ganador": "EMPATE"
+  }
+]

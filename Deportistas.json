@@ -1,0 +1,41 @@
+[
+  {
+    "nombre": "string",
+    "edad": "int",
+    "nacionalidad": "string",
+    "equipo": {
+      "type": "ObjectId",
+      "ref": "Equipos"
+    }
+  },
+  {
+    "nombre": "Lionel Messi",
+    "edad": 34,
+    "nacionalidad": "Argentina",
+    "equipo": "ID_EQUIPO"
+  },
+  {
+    "nombre": "Cristiano Ronaldo",
+    "edad": 36,
+    "nacionalidad": "Portugal",
+    "equipo": "ID_EQUIPO"
+  },
+  {
+    "nombre": "Neymar Jr",
+    "edad": 29,
+    "nacionalidad": "Brasil",
+    "equipo": "ID_EQUIPO"
+  },
+  {
+    "nombre": "Kevin De Bruyne",
+    "edad": 30,
+    "nacionalidad": "Bélgica",
+    "equipo": "ID_EQUIPO"
+  },
+  {
+    "nombre": "Robert Lewandowski",
+    "edad": 33,
+    "nacionalidad": "Polonia",
+    "equipo": "ID_EQUIPO"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "equipo": {
+      "type": "ObjectId",
+      "ref": "Equipos"
+    },
+    "puntos": "int",
+    "goles_a_favor": "int",
+    "goles_en_contra": "int"
+  },
+  {
+    "equipo": "ID_EQUIPO",
+    "puntos": 9,
+    "goles_a_favor": 8,
+    "goles_en_contra": 3
+  },
+  {
+    "equipo": "ID_EQUIPO",
+    "puntos": 7,
+    "goles_a_favor": 6,
+    "goles_en_contra": 4
+  },
+  {
+    "equipo": "ID_EQUIPO",
+    "puntos": 5,
+    "goles_a_favor": 4,
+    "goles_en_contra": 5
+  },
+  {
+    "equipo": "ID_EQUIPO",
+    "puntos": 4,
+    "goles_a_favor": 3,
+    "goles_en_contra": 4
+  },
+  {
+    "equipo": "ID_EQUIPO",
+    "puntos": 1,
+    "goles_a_favor": 2,
+    "goles_en_contra": 7
+  }
+]

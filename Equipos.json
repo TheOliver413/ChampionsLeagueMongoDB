@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "string",
+    "pais": "string",
+    "entrenador": "string"
+  },
+  {
+    "nombre": "Real Madrid",
+    "pais": "España",
+    "entrenador": "Zinedine Zidane"
+  },
+  {
+    "nombre": "FC Barcelona",
+    "pais": "España",
+    "entrenador": "Ronald Koeman"
+  },
+  {
+    "nombre": "Manchester City",
+    "pais": "Inglaterra",
+    "entrenador": "Pep Guardiola"
+  },
+  {
+    "nombre": "Bayern Munich",
+    "pais": "Alemania",
+    "entrenador": "Hans-Dieter Flick"
+  },
+  {
+    "nombre": "Paris Saint-Germain",
+    "pais": "Francia",
+    "entrenador": "Mauricio Pochettino"
+  }
+]
